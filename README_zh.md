@@ -19,9 +19,8 @@ adb shell
 >$: ./main
 
 // looking for logs.  
-
-
 ```
+在这个 shell 中，我尝试连接一个 android 模拟器。 为了让它成功运行，你必须保持你有一个模拟器。
 
 ## 更多
 该repo编译较早，新版的NDK我可能编译不过。请尝试13或16的NDK版本。
