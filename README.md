@@ -2,10 +2,11 @@
 
 ### Background
 Although the encrypting algorithm is in Java, you still can not hide your algorithm about encrypting. 
-To hide your algorithm, this repo provides an approach: encrypting in C++.
-So you don't need to care about decomposing.
+
 
 ### Approach
+To hide your algorithm, this repo provides an approach: encrypting in C++.
+So you don't need to care about decomposing.
 It bases on Crypto++ 5.6.2 to meet the algorithm code hidden.
 
 
