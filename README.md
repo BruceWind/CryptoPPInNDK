@@ -1,5 +1,5 @@
 ## CryptoPPWithNDK
-[中文]{https://github.com/BruceWind/CryptoPPInNDK/blob/master/README_zh.md}
+[中文](https://github.com/BruceWind/CryptoPPInNDK/blob/master/README_zh.md)
 ### Background
 Although the encrypting algorithm is in Java, you still can not hide your algorithm about encrypting. 
 
