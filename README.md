@@ -1,8 +1,8 @@
 ## CryptoPPWithNDK
 
 ### Background
-Although the encrypt algrithm in Java, you still can not hide your algorithm about encrypt. 
-To hide your algorithm, this repo provide an approach, encrypt within C++.
+Although the encrypting algorithm is in Java, you still can not hide your algorithm about encrypting. 
+To hide your algorithm, this repo provides an approach: encrypting in C++.
 So you don't need to care about decomposing.
 
 ### Approach
@@ -18,7 +18,7 @@ adb shell
 
 // looking for logs.  
 ```
-In this shell, I try to connect a android emulator. For it runnning successfully, you must keep you have a emulator. 
+In this shell, I try to connect an android emulator. For it running successfully, you must keep you have a emulator. 
 
 ## In addition
 This is written so early that it could go wrong when you build with a new version of NDK.
