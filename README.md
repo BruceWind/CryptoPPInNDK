@@ -22,7 +22,7 @@ adb shell
 In this shell, I try to connect an android emulator. For it running successfully, you must keep you have a emulator. 
 
 ## In addition
-This is written so early that it could go wrong when you build with a new version of NDK.
+This repo was written so early that it could go wrong in case of building with a new version of NDK.
 You may need to use NDK 13/14/16.
 
 
