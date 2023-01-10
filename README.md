@@ -1,13 +1,11 @@
 ## CryptoPPWithNDK
 [中文](https://github.com/BruceWind/CryptoPPInNDK/blob/master/README_zh.md)
-### Background
-Although the encrypting algorithm is in Java, you still can not hide your algorithm about encrypting. 
 
+## Background
+Although encrypting algorithms exist in Java, you cannot conceal your encryption algorithm due to imports.
 
-### Approach
-To hide your algorithm, this repo provides an approach: encrypting in C++.
-So you don't need to care about decomposing.
-It bases on Crypto++ 5.6.2 to meet the algorithm code hidden.
+## Approach
+This repository provides a method for hiding your algorithms: C++ encoding. Therefore, you should not worry about the exposure of your algorithms. It uses Crypto++ 5.6.2 to fulfil the hidden algorithm requirements.
 
 
 ## Build & Test
