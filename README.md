@@ -10,19 +10,22 @@ This repository provides a method for hiding your algorithms: C++ encoding. Ther
 
 ## Build & Test
 ```
+git clone git@github.com:BruceWind/CryptoPPInNDK.git
+cd CryptoPPInNDK && git lfs pull
 sh ./build_and_push.sh
-adb shell 
->$: cd /data/local/ 
+adb shell
+>$: cd /data/local/
 >$: ./main
 
-// looking for logs.  
+// looking for logs.
 ```
-To run this shell, you must try to connect an android emulator in advance. For it running successfully, you must keep you have a emulator. 
+To run this shell, you must try to connect an android emulator in advance. For it running successfully, you must keep you have a emulator.
 
 ## In addition
 This repo was written so early that it could go wrong in case of building with a new version of NDK.
 You may need to use NDK 13/14/16.
 
+Be careful with **git clone**, I've used `git lfs` to store *.a files.
 
 -------
 ## Thanks

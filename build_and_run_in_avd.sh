@@ -3,7 +3,7 @@ set -e
 ndk-build clean >/dev/null # dont show any logs.
 ndk-build NDK_DEBUG=1 >/dev/null
 
-# in this line, I suppose that you have a arm emulator or devive connected. If that is
+# in this line, I suppose that you have a arm emulator or devive connected. If that is unexptected, try to change fileurl for path.
 fileurl="./libs/armeabi/main"
 if [ ! -f "$fileurl" ]; then
   echo "$0: File '${fileurl}' not found."
