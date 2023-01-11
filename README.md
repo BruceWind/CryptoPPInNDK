@@ -17,7 +17,7 @@ adb shell
 
 // looking for logs.  
 ```
-In this shell, I try to connect an android emulator. For it running successfully, you must keep you have a emulator. 
+To run this shell, you must try to connect an android emulator in advance. For it running successfully, you must keep you have a emulator. 
 
 ## In addition
 This repo was written so early that it could go wrong in case of building with a new version of NDK.
