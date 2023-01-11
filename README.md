@@ -27,6 +27,6 @@ You may need to use NDK 13/14/16.
 -------
 ## Thanks
 
-[crypto++ for android - Official Page](https://www.cryptopp.com/wiki/Android_(Command_Line)#setenv-android.sh)
+[Crypto++ for android - Official Page](https://www.cryptopp.com/wiki/Android_(Command_Line)#setenv-android.sh)
 
-[https://github.com/weidai11/cryptopp](https://github.com/weidai11/cryptopp)
+[weidai11/cryptopp](https://github.com/weidai11/cryptopp)
