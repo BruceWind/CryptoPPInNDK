@@ -1,7 +1,7 @@
 ## CryptoPPWithNDK
 
 ### Background
-即使Java有加密算法的封装，但是无论怎么混淆，你都没法隐藏的import。imports暴露了你的算法，而该repo的目的是用C++去加密，正好解决了这些问题。
+即使Java有加密算法的封装，但是无论怎么混淆，你都没法隐藏的import。`java imports`暴露了你的算法，而该repo的目的是用C++去加密，正好解决了这些问题。
 
 ### Approach
 基于Crypto++ 5.6.2,封装一堆的调用。另外，本身java也提供了这些加密算法。这里并没有直接给出JNI例子，但是我想这已经足够你根据我的代码去自行封装。
