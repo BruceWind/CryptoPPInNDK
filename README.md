@@ -19,11 +19,11 @@ adb shell
 
 // looking for logs.
 ```
-To run this shell, you must try to connect an android emulator in advance. For it running successfully, you must keep you have a emulator.
+Before running this shell, you must connect an android emulator in advance. 
 
 ## In addition
-This repo was written so early that it could go wrong in case of building with a new version of NDK.
-You may need to use NDK 13/14/16.
+The repo was written so early that it could go wrong in case of building with a new version of NDK.
+You may need to build with NDK 13/14/16.
 
 Be careful with **git clone**, I've used `git lfs` to store *.a files.
 
