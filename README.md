@@ -2,7 +2,7 @@
 [中文](https://github.com/BruceWind/CryptoPPInNDK/blob/master/README_zh.md)
 
 ## Background
-Although encrypting algorithms exist in Java, you cannot conceal them by proguard due to `java imports`.
+Although encrypting algorithms exist in Java, you cannot conceal them by Proguard due to `java imports`.
 
 ## Approach
 This repository provides a method for hiding your algorithms: C++ encoding. Therefore, you should not worry about the exposure of your algorithms. It uses Crypto++ 5.6.2 to fulfil the hidden algorithm requirements.
